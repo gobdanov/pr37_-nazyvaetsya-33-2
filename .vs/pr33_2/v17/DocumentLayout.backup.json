@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\vadim_blagoveshensk\\source\\repos\\pr33_2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E615CFCB-6725-42D9-845B-042F6B9BE2A0}|pr33_2\\pr33_2.csproj|c:\\users\\vadim_blagoveshensk\\source\\repos\\pr33_2\\pr33_2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E615CFCB-6725-42D9-845B-042F6B9BE2A0}|pr33_2\\pr33_2.csproj|solutionrelative:pr33_2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E615CFCB-6725-42D9-845B-042F6B9BE2A0}|pr33_2\\pr33_2.csproj|c:\\users\\vadim_blagoveshensk\\source\\repos\\pr33_2\\pr33_2\\views\\items\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E615CFCB-6725-42D9-845B-042F6B9BE2A0}|pr33_2\\pr33_2.csproj|solutionrelative:pr33_2\\views\\items\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E615CFCB-6725-42D9-845B-042F6B9BE2A0}|pr33_2\\pr33_2.csproj|c:\\users\\vadim_blagoveshensk\\source\\repos\\pr33_2\\pr33_2\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E615CFCB-6725-42D9-845B-042F6B9BE2A0}|pr33_2\\pr33_2.csproj|solutionrelative:pr33_2\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -55,6 +63,36 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\vadim_blagoveshensk\\source\\repos\\pr33_2\\pr33_2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "pr33_2\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\vadim_blagoveshensk\\source\\repos\\pr33_2\\pr33_2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "pr33_2\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-15T07:25:40.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\vadim_blagoveshensk\\source\\repos\\pr33_2\\pr33_2\\Views\\Items\\List.cshtml",
+              "RelativeDocumentMoniker": "pr33_2\\Views\\Items\\List.cshtml",
+              "ToolTip": "C:\\Users\\vadim_blagoveshensk\\source\\repos\\pr33_2\\pr33_2\\Views\\Items\\List.cshtml",
+              "RelativeToolTip": "pr33_2\\Views\\Items\\List.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-15T07:20:55.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "ItemsController.cs",
               "DocumentMoniker": "C:\\Users\\vadim_blagoveshensk\\source\\repos\\pr33_2\\pr33_2\\Controllers\\ItemsController.cs",
               "RelativeDocumentMoniker": "pr33_2\\Controllers\\ItemsController.cs",
@@ -66,12 +104,8 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "MockCategories.cs",
               "DocumentMoniker": "C:\\Users\\vadim_blagoveshensk\\source\\repos\\pr33_2\\pr33_2\\Data\\Mocks\\MockCategories.cs",
               "RelativeDocumentMoniker": "pr33_2\\Data\\Mocks\\MockCategories.cs",
@@ -79,12 +113,11 @@
               "RelativeToolTip": "pr33_2\\Data\\Mocks\\MockCategories.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-15T07:09:56.83Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-15T07:09:56.83Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Categories.cs",
               "DocumentMoniker": "C:\\Users\\vadim_blagoveshensk\\source\\repos\\pr33_2\\pr33_2\\Data\\Models\\Categories.cs",
               "RelativeDocumentMoniker": "pr33_2\\Data\\Models\\Categories.cs",
@@ -92,12 +125,11 @@
               "RelativeToolTip": "pr33_2\\Data\\Models\\Categories.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-15T06:52:00.422Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-15T06:52:00.422Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "MockItems.cs",
               "DocumentMoniker": "C:\\Users\\vadim_blagoveshensk\\source\\repos\\pr33_2\\pr33_2\\Data\\Mocks\\MockItems.cs",
               "RelativeDocumentMoniker": "pr33_2\\Data\\Mocks\\MockItems.cs",
@@ -109,7 +141,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "ICategories.cs",
               "DocumentMoniker": "C:\\Users\\vadim_blagoveshensk\\source\\repos\\pr33_2\\pr33_2\\Data\\Interfaces\\ICategories.cs",
               "RelativeDocumentMoniker": "pr33_2\\Data\\Interfaces\\ICategories.cs",
@@ -121,7 +153,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "IItems.cs",
               "DocumentMoniker": "C:\\Users\\vadim_blagoveshensk\\source\\repos\\pr33_2\\pr33_2\\Data\\Interfaces\\IItems.cs",
               "RelativeDocumentMoniker": "pr33_2\\Data\\Interfaces\\IItems.cs",
@@ -133,7 +165,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Items.cs",
               "DocumentMoniker": "C:\\Users\\vadim_blagoveshensk\\source\\repos\\pr33_2\\pr33_2\\Data\\Models\\Items.cs",
               "RelativeDocumentMoniker": "pr33_2\\Data\\Models\\Items.cs",
@@ -145,7 +177,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "pr33_2.csproj",
               "DocumentMoniker": "C:\\Users\\vadim_blagoveshensk\\source\\repos\\pr33_2\\pr33_2\\pr33_2.csproj",
               "RelativeDocumentMoniker": "pr33_2\\pr33_2.csproj",
@@ -157,7 +189,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\vadim_blagoveshensk\\source\\repos\\pr33_2\\pr33_2\\Program.cs",
               "RelativeDocumentMoniker": "pr33_2\\Program.cs",
