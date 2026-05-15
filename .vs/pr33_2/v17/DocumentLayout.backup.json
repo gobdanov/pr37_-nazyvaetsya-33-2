@@ -3,28 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\vadim_blagoveshensk\\source\\repos\\pr33_2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E615CFCB-6725-42D9-845B-042F6B9BE2A0}|pr33_2\\pr33_2.csproj|c:\\users\\vadim_blagoveshensk\\source\\repos\\pr33_2\\pr33_2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E615CFCB-6725-42D9-845B-042F6B9BE2A0}|pr33_2\\pr33_2.csproj|solutionrelative:pr33_2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E615CFCB-6725-42D9-845B-042F6B9BE2A0}|pr33_2\\pr33_2.csproj|c:\\users\\vadim_blagoveshensk\\source\\repos\\pr33_2\\pr33_2\\views\\items\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E615CFCB-6725-42D9-845B-042F6B9BE2A0}|pr33_2\\pr33_2.csproj|solutionrelative:pr33_2\\views\\items\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E615CFCB-6725-42D9-845B-042F6B9BE2A0}|pr33_2\\pr33_2.csproj|c:\\users\\vadim_blagoveshensk\\source\\repos\\pr33_2\\pr33_2\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E615CFCB-6725-42D9-845B-042F6B9BE2A0}|pr33_2\\pr33_2.csproj|solutionrelative:pr33_2\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E615CFCB-6725-42D9-845B-042F6B9BE2A0}|pr33_2\\pr33_2.csproj|c:\\users\\vadim_blagoveshensk\\source\\repos\\pr33_2\\pr33_2\\data\\models\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E615CFCB-6725-42D9-845B-042F6B9BE2A0}|pr33_2\\pr33_2.csproj|solutionrelative:pr33_2\\data\\models\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E615CFCB-6725-42D9-845B-042F6B9BE2A0}|pr33_2\\pr33_2.csproj|c:\\users\\vadim_blagoveshensk\\source\\repos\\pr33_2\\pr33_2\\data\\mocks\\mockitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E615CFCB-6725-42D9-845B-042F6B9BE2A0}|pr33_2\\pr33_2.csproj|solutionrelative:pr33_2\\data\\mocks\\mockitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E615CFCB-6725-42D9-845B-042F6B9BE2A0}|pr33_2\\pr33_2.csproj|c:\\users\\vadim_blagoveshensk\\source\\repos\\pr33_2\\pr33_2\\data\\mocks\\mockcategories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E615CFCB-6725-42D9-845B-042F6B9BE2A0}|pr33_2\\pr33_2.csproj|solutionrelative:pr33_2\\data\\mocks\\mockcategories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E615CFCB-6725-42D9-845B-042F6B9BE2A0}|pr33_2\\pr33_2.csproj|c:\\users\\vadim_blagoveshensk\\source\\repos\\pr33_2\\pr33_2\\data\\mocks\\mockitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E615CFCB-6725-42D9-845B-042F6B9BE2A0}|pr33_2\\pr33_2.csproj|solutionrelative:pr33_2\\data\\mocks\\mockitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E615CFCB-6725-42D9-845B-042F6B9BE2A0}|pr33_2\\pr33_2.csproj|c:\\users\\vadim_blagoveshensk\\source\\repos\\pr33_2\\pr33_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E615CFCB-6725-42D9-845B-042F6B9BE2A0}|pr33_2\\pr33_2.csproj|solutionrelative:pr33_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E615CFCB-6725-42D9-845B-042F6B9BE2A0}|pr33_2\\pr33_2.csproj|c:\\users\\vadim_blagoveshensk\\source\\repos\\pr33_2\\pr33_2\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E615CFCB-6725-42D9-845B-042F6B9BE2A0}|pr33_2\\pr33_2.csproj|solutionrelative:pr33_2\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E615CFCB-6725-42D9-845B-042F6B9BE2A0}|pr33_2\\pr33_2.csproj|c:\\users\\vadim_blagoveshensk\\source\\repos\\pr33_2\\pr33_2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E615CFCB-6725-42D9-845B-042F6B9BE2A0}|pr33_2\\pr33_2.csproj|solutionrelative:pr33_2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E615CFCB-6725-42D9-845B-042F6B9BE2A0}|pr33_2\\pr33_2.csproj|c:\\users\\vadim_blagoveshensk\\source\\repos\\pr33_2\\pr33_2\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E615CFCB-6725-42D9-845B-042F6B9BE2A0}|pr33_2\\pr33_2.csproj|solutionrelative:pr33_2\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E615CFCB-6725-42D9-845B-042F6B9BE2A0}|pr33_2\\pr33_2.csproj|c:\\users\\vadim_blagoveshensk\\source\\repos\\pr33_2\\pr33_2\\data\\interfaces\\icategories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -39,12 +43,16 @@
       "RelativeMoniker": "D:0:0:{E615CFCB-6725-42D9-845B-042F6B9BE2A0}|pr33_2\\pr33_2.csproj|solutionrelative:pr33_2\\data\\models\\items.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E615CFCB-6725-42D9-845B-042F6B9BE2A0}|pr33_2\\pr33_2.csproj|c:\\users\\vadim_blagoveshensk\\source\\repos\\pr33_2\\pr33_2\\pr33_2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{E615CFCB-6725-42D9-845B-042F6B9BE2A0}|pr33_2\\pr33_2.csproj|solutionrelative:pr33_2\\pr33_2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{E615CFCB-6725-42D9-845B-042F6B9BE2A0}|pr33_2\\pr33_2.csproj|c:\\users\\vadim_blagoveshensk\\source\\repos\\pr33_2\\pr33_2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E615CFCB-6725-42D9-845B-042F6B9BE2A0}|pr33_2\\pr33_2.csproj|solutionrelative:pr33_2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E615CFCB-6725-42D9-845B-042F6B9BE2A0}|pr33_2\\pr33_2.csproj|c:\\users\\vadim_blagoveshensk\\source\\repos\\pr33_2\\pr33_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E615CFCB-6725-42D9-845B-042F6B9BE2A0}|pr33_2\\pr33_2.csproj|solutionrelative:pr33_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E615CFCB-6725-42D9-845B-042F6B9BE2A0}|pr33_2\\pr33_2.csproj|c:\\users\\vadim_blagoveshensk\\source\\repos\\pr33_2\\pr33_2\\data\\models\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E615CFCB-6725-42D9-845B-042F6B9BE2A0}|pr33_2\\pr33_2.csproj|solutionrelative:pr33_2\\data\\models\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E615CFCB-6725-42D9-845B-042F6B9BE2A0}|pr33_2\\pr33_2.csproj|c:\\users\\vadim_blagoveshensk\\source\\repos\\pr33_2\\pr33_2\\pr33_2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E615CFCB-6725-42D9-845B-042F6B9BE2A0}|pr33_2\\pr33_2.csproj|solutionrelative:pr33_2\\pr33_2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,37 +62,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\vadim_blagoveshensk\\source\\repos\\pr33_2\\pr33_2\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "pr33_2\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\vadim_blagoveshensk\\source\\repos\\pr33_2\\pr33_2\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "pr33_2\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-15T07:25:40.906Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "List.cshtml",
-              "DocumentMoniker": "C:\\Users\\vadim_blagoveshensk\\source\\repos\\pr33_2\\pr33_2\\Views\\Items\\List.cshtml",
-              "RelativeDocumentMoniker": "pr33_2\\Views\\Items\\List.cshtml",
-              "ToolTip": "C:\\Users\\vadim_blagoveshensk\\source\\repos\\pr33_2\\pr33_2\\Views\\Items\\List.cshtml",
-              "RelativeToolTip": "pr33_2\\Views\\Items\\List.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-15T07:20:55.979Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -92,20 +74,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\vadim_blagoveshensk\\source\\repos\\pr33_2\\pr33_2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "pr33_2\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\vadim_blagoveshensk\\source\\repos\\pr33_2\\pr33_2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "pr33_2\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-15T07:25:40.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vadim_blagoveshensk\\source\\repos\\pr33_2\\pr33_2\\Program.cs",
+              "RelativeDocumentMoniker": "pr33_2\\Program.cs",
+              "ToolTip": "C:\\Users\\vadim_blagoveshensk\\source\\repos\\pr33_2\\pr33_2\\Program.cs",
+              "RelativeToolTip": "pr33_2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T06:40:26.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\vadim_blagoveshensk\\source\\repos\\pr33_2\\pr33_2\\Views\\Items\\List.cshtml",
+              "RelativeDocumentMoniker": "pr33_2\\Views\\Items\\List.cshtml",
+              "ToolTip": "C:\\Users\\vadim_blagoveshensk\\source\\repos\\pr33_2\\pr33_2\\Views\\Items\\List.cshtml",
+              "RelativeToolTip": "pr33_2\\Views\\Items\\List.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-15T07:20:55.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "ItemsController.cs",
               "DocumentMoniker": "C:\\Users\\vadim_blagoveshensk\\source\\repos\\pr33_2\\pr33_2\\Controllers\\ItemsController.cs",
               "RelativeDocumentMoniker": "pr33_2\\Controllers\\ItemsController.cs",
               "ToolTip": "C:\\Users\\vadim_blagoveshensk\\source\\repos\\pr33_2\\pr33_2\\Controllers\\ItemsController.cs",
               "RelativeToolTip": "pr33_2\\Controllers\\ItemsController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-15T07:15:30.246Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "MockCategories.cs",
               "DocumentMoniker": "C:\\Users\\vadim_blagoveshensk\\source\\repos\\pr33_2\\pr33_2\\Data\\Mocks\\MockCategories.cs",
               "RelativeDocumentMoniker": "pr33_2\\Data\\Mocks\\MockCategories.cs",
@@ -113,11 +134,90 @@
               "RelativeToolTip": "pr33_2\\Data\\Mocks\\MockCategories.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-15T07:09:56.83Z"
+              "WhenOpened": "2026-05-15T07:09:56.83Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
+              "Title": "ICategories.cs",
+              "DocumentMoniker": "C:\\Users\\vadim_blagoveshensk\\source\\repos\\pr33_2\\pr33_2\\Data\\Interfaces\\ICategories.cs",
+              "RelativeDocumentMoniker": "pr33_2\\Data\\Interfaces\\ICategories.cs",
+              "ToolTip": "C:\\Users\\vadim_blagoveshensk\\source\\repos\\pr33_2\\pr33_2\\Data\\Interfaces\\ICategories.cs",
+              "RelativeToolTip": "pr33_2\\Data\\Interfaces\\ICategories.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T06:55:49.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IItems.cs",
+              "DocumentMoniker": "C:\\Users\\vadim_blagoveshensk\\source\\repos\\pr33_2\\pr33_2\\Data\\Interfaces\\IItems.cs",
+              "RelativeDocumentMoniker": "pr33_2\\Data\\Interfaces\\IItems.cs",
+              "ToolTip": "C:\\Users\\vadim_blagoveshensk\\source\\repos\\pr33_2\\pr33_2\\Data\\Interfaces\\IItems.cs",
+              "RelativeToolTip": "pr33_2\\Data\\Interfaces\\IItems.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T06:53:50.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MockItems.cs",
+              "DocumentMoniker": "C:\\Users\\vadim_blagoveshensk\\source\\repos\\pr33_2\\pr33_2\\Data\\Mocks\\MockItems.cs",
+              "RelativeDocumentMoniker": "pr33_2\\Data\\Mocks\\MockItems.cs",
+              "ToolTip": "C:\\Users\\vadim_blagoveshensk\\source\\repos\\pr33_2\\pr33_2\\Data\\Mocks\\MockItems.cs",
+              "RelativeToolTip": "pr33_2\\Data\\Mocks\\MockItems.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAEcAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T06:56:33.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\vadim_blagoveshensk\\source\\repos\\pr33_2\\pr33_2\\appsettings.json",
+              "RelativeDocumentMoniker": "pr33_2\\appsettings.json",
+              "ToolTip": "C:\\Users\\vadim_blagoveshensk\\source\\repos\\pr33_2\\pr33_2\\appsettings.json",
+              "RelativeToolTip": "pr33_2\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-15T07:35:43.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\vadim_blagoveshensk\\source\\repos\\pr33_2\\pr33_2\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "pr33_2\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\vadim_blagoveshensk\\source\\repos\\pr33_2\\pr33_2\\Properties\\launchSettings.json",
+              "RelativeToolTip": "pr33_2\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-15T07:35:52.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Items.cs",
+              "DocumentMoniker": "C:\\Users\\vadim_blagoveshensk\\source\\repos\\pr33_2\\pr33_2\\Data\\Models\\Items.cs",
+              "RelativeDocumentMoniker": "pr33_2\\Data\\Models\\Items.cs",
+              "ToolTip": "C:\\Users\\vadim_blagoveshensk\\source\\repos\\pr33_2\\pr33_2\\Data\\Models\\Items.cs",
+              "RelativeToolTip": "pr33_2\\Data\\Models\\Items.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T06:50:41.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Categories.cs",
               "DocumentMoniker": "C:\\Users\\vadim_blagoveshensk\\source\\repos\\pr33_2\\pr33_2\\Data\\Models\\Categories.cs",
               "RelativeDocumentMoniker": "pr33_2\\Data\\Models\\Categories.cs",
@@ -129,55 +229,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MockItems.cs",
-              "DocumentMoniker": "C:\\Users\\vadim_blagoveshensk\\source\\repos\\pr33_2\\pr33_2\\Data\\Mocks\\MockItems.cs",
-              "RelativeDocumentMoniker": "pr33_2\\Data\\Mocks\\MockItems.cs",
-              "ToolTip": "C:\\Users\\vadim_blagoveshensk\\source\\repos\\pr33_2\\pr33_2\\Data\\Mocks\\MockItems.cs",
-              "RelativeToolTip": "pr33_2\\Data\\Mocks\\MockItems.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAA+wA8AAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-15T06:56:33.363Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ICategories.cs",
-              "DocumentMoniker": "C:\\Users\\vadim_blagoveshensk\\source\\repos\\pr33_2\\pr33_2\\Data\\Interfaces\\ICategories.cs",
-              "RelativeDocumentMoniker": "pr33_2\\Data\\Interfaces\\ICategories.cs",
-              "ToolTip": "C:\\Users\\vadim_blagoveshensk\\source\\repos\\pr33_2\\pr33_2\\Data\\Interfaces\\ICategories.cs",
-              "RelativeToolTip": "pr33_2\\Data\\Interfaces\\ICategories.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAUAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-15T06:55:49.255Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IItems.cs",
-              "DocumentMoniker": "C:\\Users\\vadim_blagoveshensk\\source\\repos\\pr33_2\\pr33_2\\Data\\Interfaces\\IItems.cs",
-              "RelativeDocumentMoniker": "pr33_2\\Data\\Interfaces\\IItems.cs",
-              "ToolTip": "C:\\Users\\vadim_blagoveshensk\\source\\repos\\pr33_2\\pr33_2\\Data\\Interfaces\\IItems.cs",
-              "RelativeToolTip": "pr33_2\\Data\\Interfaces\\IItems.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-15T06:53:50.281Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Items.cs",
-              "DocumentMoniker": "C:\\Users\\vadim_blagoveshensk\\source\\repos\\pr33_2\\pr33_2\\Data\\Models\\Items.cs",
-              "RelativeDocumentMoniker": "pr33_2\\Data\\Models\\Items.cs",
-              "ToolTip": "C:\\Users\\vadim_blagoveshensk\\source\\repos\\pr33_2\\pr33_2\\Data\\Models\\Items.cs",
-              "RelativeToolTip": "pr33_2\\Data\\Models\\Items.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-15T06:50:41.472Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "pr33_2.csproj",
               "DocumentMoniker": "C:\\Users\\vadim_blagoveshensk\\source\\repos\\pr33_2\\pr33_2\\pr33_2.csproj",
               "RelativeDocumentMoniker": "pr33_2\\pr33_2.csproj",
@@ -186,18 +238,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2026-05-15T06:46:23.62Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\vadim_blagoveshensk\\source\\repos\\pr33_2\\pr33_2\\Program.cs",
-              "RelativeDocumentMoniker": "pr33_2\\Program.cs",
-              "ToolTip": "C:\\Users\\vadim_blagoveshensk\\source\\repos\\pr33_2\\pr33_2\\Program.cs",
-              "RelativeToolTip": "pr33_2\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAwAcAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-15T06:40:26.071Z"
             }
           ]
         }

@@ -5,7 +5,7 @@ namespace pr33_2.Data.Mocks
 {
     public class MockItems : IItems
     {
-        public ICategories _category = new MockCategory();
+        public ICategories _category = new MockCategories();
         public IEnumerable<Items> AllItems
         {
             get
@@ -19,7 +19,7 @@ namespace pr33_2.Data.Mocks
                         Description = "не хочу писать описание",
                         Img = "",
                         Price = 3699,
-                        category = _category.AllCategories.Where(x=>x.Id==0).First()
+                        category = _category.AllCategories.Where(x=>x.Id==0).FirstOrDefault()
                     },
                     new Items()
                     {
@@ -28,7 +28,7 @@ namespace pr33_2.Data.Mocks
                         Description = "Ноутбук с чипом M3, 8-core CPU, 10-core GPU, 16GB RAM, 512GB SSD",
                         Img = "/images/macbook-pro-14.jpg",
                         Price = 199990,
-                        category =_category.AllCategories.Where(x=>x.Id==1).First()
+                        category =_category.AllCategories.Where(x=>x.Id==1).FirstOrDefault()
                     },
                     new Items()
                     {
@@ -37,7 +37,7 @@ namespace pr33_2.Data.Mocks
                         Description = "6.67' AMOLED, Dimensity 9200+, 12GB RAM, 256GB, 120W зарядка",
                         Img = "/images/xiaomi-13t-pro.jpg",
                         Price = 49990,
-                        category =_category.AllCategories.Where(x=>x.Id==2).First()
+                        category =_category.AllCategories.Where(x=>x.Id==2).FirstOrDefault()
                     },
 
                     new Items()
@@ -47,7 +47,7 @@ namespace pr33_2.Data.Mocks
                         Description = "Беспроводные наушники с шумоподавлением, 30 часов работы",
                         Img = "/images/sony-xm5.jpg",
                         Price = 27990,
-                        category =_category.AllCategories.Where(x=>x.Id==3).First()
+                        category =_category.AllCategories.Where(x=>x.Id==3).FirstOrDefault()
                     },
 
                     // Клавиатура
@@ -58,7 +58,7 @@ namespace pr33_2.Data.Mocks
                         Description = "Механическая клавиатура, подсветка, беспроводная, Bluetooth",
                         Img = "/images/logitech-mx-mechanical.jpg",
                         Price = 14990,
-                        category =_category.AllCategories.Where(x=>x.Id==4).First()
+                        category =_category.AllCategories.Where(x=>x.Id==4).FirstOrDefault()
                     },
 
                     // Монитор
@@ -69,7 +69,7 @@ namespace pr33_2.Data.Mocks
                         Description = "27' 4K IPS, USB-C Hub, 100% sRGB, заводская калибровка",
                         Img = "/images/dell-u2723qe.jpg",
                         Price = 58990,
-                        category =_category.AllCategories.Where(x=>x.Id==5).First()
+                        category =_category.AllCategories.Where(x=>x.Id==5).FirstOrDefault()
                     }
 
                 };
