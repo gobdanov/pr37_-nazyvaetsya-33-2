@@ -59,17 +59,6 @@ namespace pr33_2.Data.Mocks
                         Img = "/images/logitech-mx-mechanical.jpg",
                         Price = 14990,
                         category =_category.AllCategories.Where(x=>x.Id==4).FirstOrDefault()
-                    },
-
-                    // Монитор
-                    new Items()
-                    {
-                        Id = 5,
-                        Name = "Dell UltraSharp U2723QE",
-                        Description = "27' 4K IPS, USB-C Hub, 100% sRGB, заводская калибровка",
-                        Img = "/images/dell-u2723qe.jpg",
-                        Price = 58990,
-                        category =_category.AllCategories.Where(x=>x.Id==5).FirstOrDefault()
                     }
 
                 };
