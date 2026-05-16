@@ -1,8 +1,8 @@
 ﻿using MySql.Data.MySqlClient;
 
-namespace pr33_2.Data.DataBase
+namespace pr33_2.Data.Common
 {
-    public class DBCategory
+    public class Connection
     {
         readonly static string ConnectionData = "server=localhost; port=3306;database=pr38;uid=root;pwd=;";
         public static MySqlConnection MySqlOpen()
