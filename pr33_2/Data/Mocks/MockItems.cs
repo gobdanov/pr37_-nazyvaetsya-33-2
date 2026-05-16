@@ -17,7 +17,7 @@ namespace pr33_2.Data.Mocks
                         Id = 0,
                         Name = "Dexp MS-70",
                         Description = "не хочу писать описание",
-                        Img = "",
+                        Img = "../img/dexp-ms-70.jpg",
                         Price = 3699,
                         category = _category.AllCategories.Where(x=>x.Id==0).FirstOrDefault()
                     },
@@ -26,7 +26,7 @@ namespace pr33_2.Data.Mocks
                         Id = 1,
                         Name = "Apple MacBook Pro 14 M3",
                         Description = "Ноутбук с чипом M3, 8-core CPU, 10-core GPU, 16GB RAM, 512GB SSD",
-                        Img = "/images/macbook-pro-14.jpg",
+                        Img = "../img/macbook.jpeg",
                         Price = 199990,
                         category =_category.AllCategories.Where(x=>x.Id==1).FirstOrDefault()
                     },
@@ -35,7 +35,7 @@ namespace pr33_2.Data.Mocks
                         Id = 2,
                         Name = "Xiaomi 13T Pro",
                         Description = "6.67' AMOLED, Dimensity 9200+, 12GB RAM, 256GB, 120W зарядка",
-                        Img = "/images/xiaomi-13t-pro.jpg",
+                        Img = "../img/xiaomi.jpg",
                         Price = 49990,
                         category =_category.AllCategories.Where(x=>x.Id==2).FirstOrDefault()
                     },
@@ -45,7 +45,7 @@ namespace pr33_2.Data.Mocks
                         Id = 3,
                         Name = "Sony WH-1000XM5",
                         Description = "Беспроводные наушники с шумоподавлением, 30 часов работы",
-                        Img = "/images/sony-xm5.jpg",
+                        Img = "../img/sony.jpg",
                         Price = 27990,
                         category =_category.AllCategories.Where(x=>x.Id==3).FirstOrDefault()
                     },
@@ -56,7 +56,7 @@ namespace pr33_2.Data.Mocks
                         Id = 4,
                         Name = "Logitech MX Mechanical",
                         Description = "Механическая клавиатура, подсветка, беспроводная, Bluetooth",
-                        Img = "/images/logitech-mx-mechanical.jpg",
+                        Img = "../img/logitech.jpg",
                         Price = 14990,
                         category =_category.AllCategories.Where(x=>x.Id==4).FirstOrDefault()
                     }

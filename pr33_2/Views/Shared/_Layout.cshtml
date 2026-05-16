@@ -3,11 +3,16 @@
 <html>
 <head>
     <meta name="viewport" content="width=device-width" />
-    <link rel="stylesheet" href="C:\Users\vadim_blagoveshensk\source\repos\pr33_2\pr33_2\wwwroot\css\Style.css"/>
+    <link rel="stylesheet" href="/css/Style.css" runat="server"/>
     <title>@ViewBag.Title</title>
     
 </head>
 <body>
+    <div class="header">
+        <img src="~/img/puzzle-piece.png" />
+        <input class="search" placeholder="поиск по сайту"/>
+        <img class="basket" src="~/img/basketball.png" />
+    </div>
     <div>
         @RenderBody()
     </div>

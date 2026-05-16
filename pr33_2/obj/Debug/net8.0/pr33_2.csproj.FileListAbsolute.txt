@@ -36,3 +36,4 @@ C:\Users\vadim_blagoveshensk\source\repos\pr33_2\pr33_2\obj\Debug\net8.0\refint\
 C:\Users\vadim_blagoveshensk\source\repos\pr33_2\pr33_2\obj\Debug\net8.0\pr33_2.pdb
 C:\Users\vadim_blagoveshensk\source\repos\pr33_2\pr33_2\obj\Debug\net8.0\pr33_2.genruntimeconfig.cache
 C:\Users\vadim_blagoveshensk\source\repos\pr33_2\pr33_2\obj\Debug\net8.0\ref\pr33_2.dll
+C:\Users\vadim_blagoveshensk\source\repos\pr33_2\pr33_2\bin\Debug\net8.0\pr33_2.staticwebassets.runtime.json

@@ -8,10 +8,15 @@
 @{
     foreach(var item in Model)
     {
-        <div>
-            <h3>модель: @item.Name</h3>
-            <p>цена: @item.Price.ToString()</p>
-            <p>категория: @item.category.Name</p>
+        <div class="item">
+            <img src="@item.Img"/>
+            <div class="data">
+                <h3>модель: @item.Name</h3>
+                <p>цена: @item.Price.ToString()</p>
+                <p>категория: @item.category.Name</p>
+                <p>описание: @item.Description</p>
+            </div>
+            
         </div>
     }
 }
