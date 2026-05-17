@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("pr33_2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b64d282b443adfb7bd2697bde762b295e5eaf344")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+176487a915dd879e6de79fc6528702cd8bde4865")]
 [assembly: System.Reflection.AssemblyProductAttribute("pr33_2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("pr33_2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
